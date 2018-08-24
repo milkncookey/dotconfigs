@@ -1,0 +1,9 @@
+[submodule "vimconfig"]
+	path = vimconfig
+	url = https://github.com/milkncookey/vimconfig.git
+[submodule "tmuxconfig"]
+	path = tmuxconfig
+	url = https://github.com/milkncookey/tmuxconfig.git
+[submodule "profileconfig"]
+	path = profileconfig
+	url = https://github.com/milkncookey/profileconfig.git
