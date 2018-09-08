@@ -7,3 +7,9 @@
 [submodule "profileconfig"]
 	path = profileconfig
 	url = https://github.com/milkncookey/profileconfig.git
+[submodule "zshconfig"]
+	path = zshconfig
+	url = https://github.com/milkncookey/zshconfig.git
+[submodule "fontconfig"]
+	path = fontconfig
+	url = https://github.com/milkncookey/fontconfig.git
